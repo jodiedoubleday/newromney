@@ -95,4 +95,4 @@ All adverts are full colour.
 
 Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.
 
-**Please call 01797 363981 or[contact us](/contactUs) for more information or to book your space.**
+**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space.**
