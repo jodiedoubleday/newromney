@@ -2,6 +2,7 @@
 title: What's on?
 heading: What's on
 permalink: "/whatsOn/"
+name: Whats On
 layout: default
 ---
 

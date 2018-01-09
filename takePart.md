@@ -2,6 +2,7 @@
 title: Take Part
 heading: Take Part
 permalink: "/takePart/"
+name: Take Part
 layout: default
 ---
 

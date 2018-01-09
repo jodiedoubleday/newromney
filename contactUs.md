@@ -2,6 +2,7 @@
 title: Contact Us
 heading: Contact Us
 permalink: "/contactUs/"
+name: Contact Us
 layout: default
 ---
 
