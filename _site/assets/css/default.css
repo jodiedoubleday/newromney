@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
 
 html {
   position: relative;
@@ -53,6 +53,7 @@ footer {
   position:absolute;
   bottom:0;
   width:100%;
+  margin-top:30px;
 }
 footer a {
   color:#777;
