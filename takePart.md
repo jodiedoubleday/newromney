@@ -1,6 +1,6 @@
 ---
-name: Take Part
 title: Take Part
+heading: Take Part
 permalink: "/takePart/"
 layout: default
 ---
