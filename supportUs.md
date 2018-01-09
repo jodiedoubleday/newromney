@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Support Us
-permalink: /supportUs/
+permalink: "/supportUs/"
+layout: default
 ---
 
 Would you like to support the 2018 Country Fayre?

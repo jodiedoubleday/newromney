@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Contact Us
-permalink: /contactUs/
+permalink: "/contactUs/"
+layout: default
 ---
 
 by e-mail:&nbsp; [info@newromneycountryfayre.co.uk](mailto:info@newromneycountryfayre.co.uk)

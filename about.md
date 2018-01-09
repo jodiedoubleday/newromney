@@ -1,7 +1,7 @@
 ---
-layout: default
 title: What's it all about?
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 A Community Event, Revitalising Community Spirit

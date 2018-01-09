@@ -1,7 +1,7 @@
 ---
-layout: default
 title: What's on?
-permalink: /whatsOn/
+permalink: "/whatsOn/"
+layout: default
 ---
 
 ## Dates for your diary
