@@ -12,10 +12,10 @@ title: The Largest Free Event on Romney Marsh
   </div>
   <div class="col-xs-12 col-md-6">
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/dRjTIJevMX0?rel=0&amp;showinfo=0&amp;autohide=1"></iframe>
+      <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dRjTIJevMX0?rel=0&amp;showinfo=0&amp;autohide=1"></iframe>
     </div>
     <figure>
-      <img src="/assets/images/2017-photoshoot.jpg" alt="Sponsors Photoshoot" class="img-responsive">
+      <img src="assets/images/2017-photoshoot.jpg" alt="Sponsors Photoshoot" class="img-responsive">
       <figcaption>
         Sponsors Photoshoot 2017
       </figcaption>
