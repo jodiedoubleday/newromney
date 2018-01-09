@@ -15,7 +15,7 @@ title: The Largest Free Event on Romney Marsh
       <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/dRjTIJevMX0?rel=0&amp;showinfo=0&amp;autohide=1"></iframe>
     </div>
     <figure>
-      <img src="/assets/images/2017-photoshoot.jpg" alt="Sponsors Photoshoot" class="img-responsive">
+      <img src="{{ site.baseurl }}/assets/images/2017-photoshoot.jpg" alt="Sponsors Photoshoot" class="img-responsive">
       <figcaption>
         Sponsors Photoshoot 2017
       </figcaption>
