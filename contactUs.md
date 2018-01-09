@@ -1,7 +1,7 @@
 ---
-name: Contact Us
 title: Contact Us
 permalink: "/contactUs/"
+name: Contact Us
 layout: default
 ---
 

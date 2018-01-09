@@ -1,6 +1,6 @@
 ---
-name: Homepage
 title: The Largest Free Event on Romney Marsh
+name: Homepage
 layout: landing
 ---
 
