@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-size:16px !important;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  line-height:1.6em !important;
+  margin-bottom:40px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color:#0095DA;
+  font-weight:700;
+  line-height:1.4em !important;
+  padding:0;
+  margin:0;
+}
+h3 {
+  padding-bottom:0.5em;
+}
+/* --Navigation fixes --*/
+nav.navbar {
+  border-radius: 0px;
+  border-bottom:solid 3px #0095DA;
+}
+.navbar-default .navbar-nav>li>a {
+  color:#0095DA;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav > li > a:hover {
+  background:#0095DA;
+  color:#FFF;
+}
+.navbar-text {
+  padding-right:1em;
+  float:right;
+}
+
+.brand {
+  padding:1em;
+}
+
+footer {
+  background:#f7f7f7;
+  border-top:1px solid #e1e1e1;
+  color:#777;
+  font-size:14px !important;
+  padding:0.5em;
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+footer a {
+  color:#777;
+  text-decoration:underline;
+}
+
+/* Contact Form */
+#successMessage, #failureMessage {display:none;}
+
+label {
+  font-weight:400;
+}
+
+.sellpoint {
+  color:#0095DA;
+  font-size:2em;
+  padding:1.5em 0 1em 0;
+  float:right;
+  text-align:center;
+}
+
+@media (max-width: 768px) {
+  .brand {
+    margin:0px auto;
+  }
+  .sellpoint {
+    font-size:1.6em;
+    padding: 0 0 0.5em 0;
+    text-align:center;
+    float:none;
+  }
+}
+
+.thumbnail {
+  margin-right:1em;
+}
+figure {
+  margin-top:1em;
+}
+
+.carousel-control span {
+  position: absolute;
+  top: 50%;
+}
+.carousel-indicators {
+  bottom:-50px;
+}
+.carousel-indicators li {
+  border:solid 1px #414141;
+}
+.carousel-indicators li.active {
+  border:solid 1px #fff;
+  background-color: #414141;
+}

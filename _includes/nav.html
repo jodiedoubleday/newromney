@@ -1,0 +1,27 @@
+<!--{% for p in site.pages %}
+    <li>
+      <a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+    </li>
+    {% endfor %}-->
+
+<nav class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      Menu
+    </button>
+  </div>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="container">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/about">About us</a></li>
+        <li><a href="/whatsOn">What's on</a></li>
+        <li><a href="/takePart">Take part</a></li>
+        <li><a href="/supportUs">Support us</a></li>
+        <li><a href="/gallery">Gallery</a></li>
+        <li><a href="http://countryfayre.tumblr.com/">Blog</a></li>
+        <li><a href="/contactUs">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
