@@ -18,7 +18,7 @@ title: New Romney Country Fayre
 email: admin@newromneycountryfayre.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   New Romney Country Fayre - The largest FREE event on Romney Marsh, Kent
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/newromney" # the subpath of your site, e.g. /blog
 url: "http://newromneycountryfayre.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
