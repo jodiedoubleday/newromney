@@ -23,7 +23,7 @@ url: "http://newromneycountryfayre.co.uk" # the base hostname & protocol for you
 
 # Build settings
 markdown: kramdown
-highlighter: true
+rouge: true
 plugins:
   - jekyll-feed
 # Exclude from processing.
