@@ -12,12 +12,11 @@ The Country Fayre brings the whole community together and is all about promoting
 
 There are 2 arenas offering a full day of entertainment, surrounded by stalls selling produce of all kinds, crafts, tombolas and games. The day kicks off with a noisy and colourful Parade through the Town leaving the Marsh Academy at 10.15am
 
-<div class="alert alert-info">
-  <div class="h4">PLEASE NOTE THAT ROADS IN THE AREA WILL BE CLOSED TO ALLOW THE PARADE TO TAKE PLACE</div>
-  <p>We apologise for this, but disruption will be kept to a minimum</p>
-</div>
+**PLEASE NOTE THAT ROADS IN THE AREA WILL BE CLOSED TO ALLOW THE PARADE TO TAKE PLACE**
 
-If you want to leave your car at home and go green why not travel on the Romney Hythe Dymchurch Railway. Their special trains will arrive in New Romney in time for the start of the Parade. Special fares apply. For more information visit [Romney, Hythe &amp; Dymchurch Railway](http://www.rhdr.org.uk)
+We apologise for this, but disruption will be kept to a minimum
+
+If you want to leave your car at home and go green why not travel on the Romney Hythe Dymchurch Railway. Their special trains will arrive in New Romney in time for the start of the Parade. Special fares apply. For more information visit [Romney, Hythe & Dymchurch Railway](http://www.rhdr.org.uk)
 
 ## Be part of the team
 
@@ -26,12 +25,19 @@ All the organisation of the Fayre is carried out by a team of less than 15 volun
 Some of the jobs our volunteers do include:
 
 * Acting as Parade Marshals
+
 * Setting up Road Closures for the Parade
+
 * Running the Refreshment Stall on the day
+
 * Selling Programmes
+
 * Helping with the setting up and clearing away of Country Fayre equipment
+
 * Helping to sell advertising space in our programme
+
 * Booking arena entertainment
+
 * Helping with fundraising events
 
 If you feel you could spare some time to help with the organisation and preparations or want to help out on the day itself, then please call the Chairman on: 01797 363981
