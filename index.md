@@ -1,6 +1,6 @@
 ---
 title: The Largest Free Event on Romney Marsh
-layout: default
+layout: landing
 ---
 
 <div class="row">
