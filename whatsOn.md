@@ -1,4 +1,5 @@
 ---
+name: Whats On
 title: What's on?
 permalink: "/whatsOn/"
 layout: default

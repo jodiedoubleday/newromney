@@ -1,4 +1,5 @@
 ---
+name: Support
 title: Support Us
 permalink: "/supportUs/"
 layout: default

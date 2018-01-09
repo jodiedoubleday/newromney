@@ -1,4 +1,5 @@
 ---
+name: Take Part
 title: Take Part
 permalink: "/takePart/"
 layout: default

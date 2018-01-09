@@ -1,4 +1,5 @@
 ---
+name: About
 title: What's it all about?
 permalink: "/about/"
 layout: default
