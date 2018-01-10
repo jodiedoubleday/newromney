@@ -4,7 +4,7 @@ title: Take Part
 ---
 With over 130 stalls everyone is sure to find something of interest.
 
-## Stall
+## Stalls
 
 Stalls are run by charity groups, High Street traders, local organisations and businesses, as well as individuals. There is always a huge demand for stalls and we try to bring as much variety as we possibly can.
 
