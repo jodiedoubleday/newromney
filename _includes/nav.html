@@ -4,6 +4,8 @@
     </li>
     {% endfor %}-->
 
+{% assign active = page.url | split: '/' %}
+
 <nav class="navbar navbar-default" role="navigation">
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -13,14 +15,14 @@
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <div class="container">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="{{ site.baseurl }}">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About us</a></li>
-        <li><a href="{{ site.baseurl }}/whatsOn">What's on</a></li>
-        <li><a href="{{ site.baseurl }}/takePart">Take part</a></li>
-        <li><a href="{{ site.baseurl }}/supportUs">Support us</a></li>
-        <li><a href="{{ site.baseurl }}/gallery">Gallery</a></li>
+        <li {% if active[1] == %}class="active"{% endif %}><a href="{{ site.baseurl }}/">Home</a></li>
+        <li {% if active[1] == "about" %}class="active"{% endif %}><a href="{{ site.baseurl }}/about">About us</a></li>
+        <li {% if active[1] == "whatsOn" %}class="active"{% endif %}><a href="{{ site.baseurl }}/whatsOn">What's on</a></li>
+        <li {% if active[1] == "takePart" %}class="active"{% endif %}><a href="{{ site.baseurl }}/takePart">Take part</a></li>
+        <li {% if active[1] == "supportUs" %}class="active"{% endif %}><a href="{{ site.baseurl }}/supportUs">Support us</a></li>
+        <li {% if active[1] == "gallery" %}class="active"{% endif %}><a href="{{ site.baseurl }}/gallery">Gallery</a></li>
         <li><a href="http://countryfayre.tumblr.com/">Blog</a></li>
-        <li><a href="{{ site.baseurl }}/contactUs">Contact us</a></li>
+        <li {% if active[1] == "contactUs" %}class="active"{% endif %}><a href="{{ site.baseurl }}/contactUs">Contact us</a></li>
       </ul>
     </div>
   </div>

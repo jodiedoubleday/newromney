@@ -1,5 +1,6 @@
 ---
 title: Homepage
+permalink: "/"
 heading: The Largest Free Event on Romney Marsh
 layout: landing
 ---

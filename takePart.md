@@ -1,7 +1,10 @@
 ---
-layout: default
 title: Take Part
+permalink: "/takePart/"
+heading: Take Part
+layout: default
 ---
+
 With over 130 stalls everyone is sure to find something of interest.
 
 ## Stalls
