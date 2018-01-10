@@ -1,8 +1,7 @@
 ---
 title: About
-heading: What's it all about?
 permalink: "/about/"
-name: About
+heading: What's it all about?
 layout: default
 ---
 
