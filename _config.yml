@@ -11,7 +11,7 @@ collections:
 name: New Romney Country Fayre
 email: admin@newromneycountryfayre.co.uk
 description: New Romney Country Fayre - The largest FREE event on Romney Marsh, Kent
-baseurl: "/newromney"
+baseurl: "/"
 url: http://newromneycountryfayre.co.uk
 markdown: kramdown
 rouge: true
