@@ -3,7 +3,7 @@ layout: landing
 title: Homepage
 heading: The Largest Free Event on Romney Marsh.
 ---
-Despite the best efforts of the weather, the 2017 Fayre was a huge success..  The Parade was fantastic, all the entrants had made so much effort with their costumes for our theme of Children's Books and it was probably the largest Parade ever.  This was the first time in 23 years that the Fayre had to be curtailed because of bad weather. If it had stayed fine, it would probably have been a record breaking day.
+Despite the best efforts of the weather, the 2017 Fayre was a huge success. The Parade was fantastic, all the entrants had made so much effort with their costumes for our theme of Children's Books and it was probably the largest Parade ever.  This was the first time in 23 years that the Fayre had to be curtailed because of bad weather. If it had stayed fine, it would probably have been a record breaking day.
 
 The New Romney Country Fayre is an annual event held on St Martin's Field and the Fairfield Road Recreation Ground in New Romney. It is the largest free event on Romney Marsh and is a true community event attracting over 7,000 visitors from all over the South East of England. The original Committee was formed in 1994 with the first Fayre taking place the following year. Since then it has grown into a massive event and has helped to raise hundreds of thousands of pounds for local organisations and charities who take part. For map please see [contact us](/contact/)
 
