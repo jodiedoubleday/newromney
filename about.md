@@ -1,10 +1,7 @@
 ---
-title: About
-permalink: "/about/"
-heading: What's it all about?
 layout: default
+title: Whats it all about?
 ---
-
 A Community Event, Revitalising Community Spirit
 
 The New Romney Country Fayre is held annually on St Martin's Field and the Fairfield Road Recreation Ground in New Romney, which is just off the High Street. It is the largest free event on Romney Marsh, attracting over 7000 residents and visitors from all over the south east of England. The volunteer committee was originally set up in 1994 with the first Fayre taking place the following year. Since then the Fayre has grown into a huge attraction and has helped to raise hundreds of thousands of pounds for local organisations and charities who take part in the event.
@@ -26,19 +23,12 @@ All the organisation of the Fayre is carried out by a team of less than 15 volun
 Some of the jobs our volunteers do include:
 
 * Acting as Parade Marshals
-
 * Setting up Road Closures for the Parade
-
 * Running the Refreshment Stall on the day
-
 * Selling Programmes
-
 * Helping with the setting up and clearing away of Country Fayre equipment
-
 * Helping to sell advertising space in our programme
-
 * Booking arena entertainment
-
 * Helping with fundraising events
 
 If you feel you could spare some time to help with the organisation and preparations or want to help out on the day itself, then please call the Chairman on: 01797 363981
