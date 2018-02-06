@@ -5,6 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
+    fields:
+      - {label: "Heading", name: "Heading", widget: "string"}
   uploads:
     title: Uploads
     output: true
