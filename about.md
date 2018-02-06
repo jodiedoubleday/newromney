@@ -1,6 +1,8 @@
 ---
+title: about
+permalink: "/about/"
+heading: What's it all about?
 layout: default
-title: Whats it all about?
 ---
 A Community Event, Revitalising Community Spirit
 
