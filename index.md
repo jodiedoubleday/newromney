@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Homepage
-heading: The largest Free Event on Romney Marsh.
+heading: The Largest Free Event on Romney Marsh.
 ---
 Despite the best efforts of the weather, the 2017 Fayre was a huge success. The Parade was fantastic, all the entrants had made so much effort with their costumes for our theme of Children's Books and it was probably the largest Parade ever.  This was the first time in 23 years that the Fayre had to be curtailed because of bad weather. If it had stayed fine, it would probably have been a record breaking day.
 
