@@ -5,7 +5,7 @@ heading: Support Us
 ---
 Would you like to support the 2018 Country Fayre?
 
-The cost of staging the event is in the region of &pound;11,000. It is not only the arena acts that cost the money, although nearly half of the total is spent on performers. The remainder is used for essential services such as hire of toilets, PA system, rubbish skips, public liability insurance, first aid cover and the purchase of new equipment and replacement of anything broken or worn out. Every year there are new health and safety requirements, which often necessitate the purchase or hiring of additional equipment.
+The cost of staging the event is in the region of £11,000. It is not only the arena acts that cost the money, although nearly half of the total is spent on performers. The remainder is used for essential services such as hire of toilets, PA system, rubbish skips, public liability insurance, first aid cover and the purchase of new equipment and replacement of anything broken or worn out. Every year there are new health and safety requirements, which often necessitate the purchase or hiring of additional equipment.
 
 Any form of help is always most welcome, be it logistical such as loan of a van or equipment, selling of programmes, acting as parade marshals and help with the setting up of the Fayre and the clearing up following the event.
 
@@ -43,28 +43,22 @@ Anyone - individuals or companies can become a sponsor.
   </div>
 </div>
 
-## Sponsors for 2017 include
+## Sponsors for 2018 include
 
-* Magnox Socio-Economic Scheme Dungeness A Site
-* EDF Energy Dungeness B Power Station
-* Peter Simmonds Members Grant (x-SDC Councillor)
-* SDC Cllr Susie Govett Members Grant
-* Carole Waters  Members Grant (x-KCC Councillor)
 * New Romney Town Council
+* EDF Energy Dungeness B Power Station
+* Cllr Russell Tilson SDC Members Grant 
+* Cllr Susie Govett SDC Members Grant
+* Cllr Tony Hills KCC Members Grant 
+* Kirsten Terry
 * Graham Newing Electrical Contractor
 * Roger de Haan Charitable Trust
 * B E Ames Builders Ltd
-* Liberon Ltd
-* Belmont Sandbanks Care Homes
-* W & E Rolfe & Son
 * The Broadacre, New Romney
-* Firmager Funeral Services Ltd
-* Robert Jardine Opticians
 * Romney Resource Centre
-* G&J Private Car Hire
 * Patricia Rolfe - Sponsorship of Medals for Children's Races
-* R Hills Woodturning Ltd and Briony Kapoor (Personal Donation)
-* Peter J Goddard Sports Ground Maintenance
+* R Hills Woodturning Ltd a
+* 
 
 ### Logistical Help 2017
 
