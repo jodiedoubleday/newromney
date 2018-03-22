@@ -14,6 +14,8 @@ North Street\
 NEW ROMNEY\
 TN28 8DW
 
-Tickets £6 to include a Ploughmans Supper
+Tickets £6 to include a Ploughmans Supper\
+Please ring:  01797 363981 or speak to a Committee Member\
+Teams of up to 6 people
 
-Bring Your Own Drink
+**Bring Your Own Drink**
