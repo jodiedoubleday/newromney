@@ -14,12 +14,11 @@ Types of stalls include:
 * Displays
 * Traditional games such as Bat the Rat, Hook a Duck and Tombolas
 
-To apply for a stall, or for further information, please contact the Stalls Co-ordinator by telephone: 01797 369230 and give details of the type of stall you wish to have ie. craft, food, tombola etc or send an e-mail to: <a href="mailto:sylviacooper@tiscali.co.uk">sylviacooper@tiscali.co.uk</a>\
+To apply for a stall, or for further information, please contact the Stalls Co-ordinator by telephone: 01797 369230 and give details of the type of stall you wish to have ie. craft, food, tombola etc or send an e-mail to: <mailto:sylviacooper@tiscali.co.uk>
+
 We are particularly looking for some more unusual stalls, the allocation of food stalls is almost complete.  Stall Holders are expected to be set up by 9am and vehicles removed from the site. PLEASE NOTE THAT NEW ROMNEY IS ON THE SOUTH EAST COAST OF KENT AND WE RECOMMEND THAT ANYONE APPLYING FOR A STALL LIVES WITHIN 30 MILE RADIUS AS THE TRAFFIC CAN BE EXTREMELY HEAVY DURING THE SUMMER MONTHS
 
 **IF YOU ARE INTERESTED IN HAVING A STALL OR HAVE ANY QUESTIONS REGARDING STALLS PLEASE CONTACT THE STALLS CO-ORDINATOR AS ABOVE**
-
-
 
 ## Childrens Races
 
@@ -43,7 +42,7 @@ The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy
 
 The theme for 2017 was **&quot;Children's Books&quot;.**
 
-The Parade entries were once again truly amazing, so much time and effort had gone into making the costumes and we thank the participants for being so enthusiastic.
+The Parade entries were once again truly amazing, so much time  and effort had gone into making the costumes and we thank the participants for being so enthusiastic.
 
 Trophies were awarded in Five Categories:
 
