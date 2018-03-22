@@ -72,19 +72,9 @@ Anyone - individuals or companies can become a sponsor.
 * Army Cadet Force, St Mary's Bay
 * Romney Marsh Carpets (Electrical Supply)
 
-### Lucky Programme Prizes 2017
+### Lucky Programme Prizes 2018
 
-1. Family Ticket to Chessington World of Adventures - Holiday Extras
-2. Tickets for Thorpe Park
-3. Family Rover Ticket for Romney Hythe & Dymchurch Railway
-4. Fish and Chip Supper - Rod and Line Fish Bar
-5. Fruit Basket - Savages
-6. Demetrios Greek Restaurant Voucher
-7. Canvas Print - Susan Pilcher Footprints Photography
-8. Child's Scooter - Thanks to Romney Cycles
-9. Afternoon Cream Tea - Deblyns Tearoom
-10. Breakfast Basket - The Broadacre
-11. Pack of Romney Marsh Beer - Romney Marsh Brewery
+The list of prizes will be available nearer the Fayre
 
 ### Programme Advertising
 
