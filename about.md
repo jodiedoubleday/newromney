@@ -1,8 +1,7 @@
 ---
-title: about
-permalink: "/about/"
-heading: What's it all about?
 layout: default
+title: about
+heading: What's it all about?
 ---
 A Community Event, Revitalising Community Spirit
 
@@ -10,7 +9,7 @@ The New Romney Country Fayre is held annually on St Martin's Field and the Fairf
 
 The Country Fayre brings the whole community together and is all about promoting traditional family fun. It has become an event that the whole Town can be proud of.
 
-There are 2 arenas offering a full day of entertainment, surrounded by stalls selling produce of all kinds, crafts, tombolas and games. The day kicks off with a noisy and colourful Parade through the Town leaving the Marsh Academy at 10.15am
+There are 2 arenas offering a full day of entertainment, surrounded by 130 stalls selling produce of all kinds, crafts, tombolas and games. The day kicks off with a noisy and colourful Parade through the Town leaving the Marsh Academy at 10.15am
 
 **PLEASE NOTE THAT ROADS IN THE AREA WILL BE CLOSED TO ALLOW THE PARADE TO TAKE PLACE**
 
@@ -31,7 +30,7 @@ Some of the jobs our volunteers do include:
 * Helping with the setting up and clearing away of Country Fayre equipment
 * Helping to sell advertising space in our programme
 * Booking arena entertainment
-* Helping with fundraising events
+* Organisation of fundraising events
 
 If you feel you could spare some time to help with the organisation and preparations or want to help out on the day itself, then please call the Chairman on: 01797 363981
 
