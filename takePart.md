@@ -40,7 +40,7 @@ The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy
 
 ## Trophies
 
-The theme for 2017 was **&quot;Children's Books&quot;.**
+The theme for 2017 was **"Children's Books"**
 
 The Parade entries were once again truly amazing, so much time  and effort had gone into making the costumes and we thank the participants for being so enthusiastic.
 
