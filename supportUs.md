@@ -52,12 +52,11 @@ Anyone - individuals or companies can become a sponsor.
 * Cllr Tony Hills KCC Members Grant 
 * Kirsten Terry
 * Graham Newing Electrical Contractor
-* Roger de Haan Charitable Trust
 * B E Ames Builders Ltd
 * The Broadacre, New Romney
 * Romney Resource Centre
 * Patricia Rolfe - Sponsorship of Medals for Children's Races
-* R Hills Woodturning Ltd a
+* R Hills Woodturning Ltd 
 * 
 
 ### Logistical Help 2017
