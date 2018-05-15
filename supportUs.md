@@ -50,16 +50,21 @@ Anyone - individuals or companies can become a sponsor.
 * Cllr Russell Tilson SDC Members Grant 
 * Cllr Susie Govett SDC Members Grant
 * Cllr Tony Hills KCC Members Grant 
-* Kirsten Terry
+* Shepway Tutoring
 * Graham Newing Electrical Contractor
 * B E Ames Builders Ltd
 * The Broadacre, New Romney
 * Romney Resource Centre
 * Patricia Rolfe - Sponsorship of Medals for Children's Races
 * R Hills Woodturning Ltd 
-* 
+* Romney Marsh Community Church
+* Robert Jardine Opticians
+* W & E Rolfe
+* Liberon
+* Firmager Funeral Services
+* Magnox Socio Economic Scheme
 
-### Logistical Help 2017
+### Logistical Help 2018
 
 * Romney Hythe & Dymchurch Railway - Running of Special Trains
 * EDF Energy Dungeness B Power Station - Parade Marshals and Helpers
@@ -67,13 +72,14 @@ Anyone - individuals or companies can become a sponsor.
 * The Broadacre - Venue for Meetings
 * The Marsh Academy & Leisure Centre - Use of Car Park for Parade Assembly Point
 * Family of the late Terry Sleap - Use of field for Car Park
-* New Romney Butchers - Electrical Supply
 * Army Cadet Force, St Mary's Bay
-* Romney Marsh Carpets (Electrical Supply)
 
 ### Lucky Programme Prizes 2018
 
-The list of prizes will be available nearer the Fayre
+Romney Hythe & Dymchurch Railway, Demetrios Restaurant, Rod & Line Fish Bar,\
+The Broadacre, Savages, Thorpe Park
+
+
 
 ### Programme Advertising
 
@@ -81,6 +87,6 @@ Advertising in the very colourful and information-packed 48 page programme start
 
 All adverts are full colour.
 
-Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.
+Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   ALL ADVERTISING SPACE SOLD FOR 2018
 
 **Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space.**
