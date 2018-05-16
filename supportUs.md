@@ -77,9 +77,7 @@ Anyone - individuals or companies can become a sponsor.
 ### Lucky Programme Prizes 2018
 
 Romney Hythe & Dymchurch Railway, Demetrios Restaurant, Rod & Line Fish Bar,\
-The Broadacre, Savages, Thorpe Park
-
-
+The Broadacre, Savages, Thorpe Park, Shepway Tutoring
 
 ### Programme Advertising
 
