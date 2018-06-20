@@ -14,7 +14,7 @@ Types of stalls include:
 * Displays
 * Traditional games such as Bat the Rat, Hook a Duck and Tombolas
 
-To apply for a stall, or for further information, please contact the Stalls Co-ordinator by telephone: 01797 369230 and give details of the type of stall you wish to have ie. craft, food, tombola etc or send an e-mail to: <mailto:sylviacooper@tiscali.co.uk>
+To apply for a stall, or for further information, please contact the Stalls Co-ordinator by telephone: 01797 369230 and give details of the type of stall you wish to have ie. craft, food, tombola etc or send an e-mail to:  sylviascooper@aol.com
 
 We are particularly looking for some more unusual stalls, the allocation of food stalls is almost complete.  Stall Holders are expected to be set up by 9am and vehicles removed from the site. PLEASE NOTE THAT NEW ROMNEY IS ON THE SOUTH EAST COAST OF KENT AND WE RECOMMEND THAT ANYONE APPLYING FOR A STALL LIVES WITHIN A 30 MILE RADIUS AS THE TRAFFIC CAN BE EXTREMELY HEAVY DURING THE SUMMER MONTHS
 
