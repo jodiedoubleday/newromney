@@ -63,6 +63,8 @@ Anyone - individuals or companies can become a sponsor.
 * Liberon
 * Firmager Funeral Services
 * Magnox Socio Economic Scheme
+* Sainsburys New Romney
+* Pentland Homes
 
 ### Logistical Help 2018
 
@@ -77,7 +79,7 @@ Anyone - individuals or companies can become a sponsor.
 ### Lucky Programme Prizes 2018
 
 Romney Hythe & Dymchurch Railway, Demetrios Restaurant, Rod & Line Fish Bar,\
-The Broadacre, Savages, Thorpe Park, Shepway Tutoring
+The Broadacre, Savages, Thorpe Park, Shepway Tutoring, Holiday Extras
 
 ### Programme Advertising
 
@@ -87,4 +89,7 @@ All adverts are full colour.
 
 Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   ALL ADVERTISING SPACE SOLD FOR 2018
 
-**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space.**
+**PROGRAMME ON SALE FROM 30TH JUNE ONLY £1**\
+Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
+
+**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space for 2019.**
