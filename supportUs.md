@@ -65,6 +65,7 @@ Anyone - individuals or companies can become a sponsor.
 * Magnox Socio Economic Scheme
 * Sainsburys New Romney
 * Pentland Homes
+* M & S Gardening Services
 
 ### Logistical Help 2018
 
