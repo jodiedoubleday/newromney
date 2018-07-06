@@ -66,6 +66,7 @@ Anyone - individuals or companies can become a sponsor.
 * Sainsburys New Romney
 * Pentland Homes
 * M & S Gardening Services
+* Terswin Paving
 
 ### Logistical Help 2018
 
