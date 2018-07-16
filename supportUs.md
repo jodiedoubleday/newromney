@@ -67,6 +67,7 @@ Anyone - individuals or companies can become a sponsor.
 * Pentland Homes
 * M & S Gardening Services
 * Terswin Paving
+* Briony Kapoor IMOS Foundation
 
 ### Logistical Help 2018
 
