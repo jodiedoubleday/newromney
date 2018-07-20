@@ -9,14 +9,16 @@ A real highlight of the day is the vibrant and colourful parade through the High
 
 As well as free entry to the Fayre a free car park is provided in Ashford Road. Alternatively, go green and catch one of the special trains being run from Romney Sands and Hythe Stations, by the Romney Hythe and Dymchurch Railway. These trains will arrive in New Romney in time for you to see the Parade.  We are pleased to be working again with the RHDR and details of trains, special fares and timetables can be found on the website of the Romney, Hythe and Dymchurch Railway:  www.rhdr.org.uk
 
-_**The Special Trains on Country Fayre Day are:**_\
-_**From:**_\
+**_The Special Trains on Country Fayre Day are:_**\
+**_From:_**\
 **Hythe;                 9.00am                                          **\
 **Dymchurch:        9.20am                                          **\
 **St Mary's Bay:    9.25am                                          **\
 **New Romney:     9.35am**
 
-**_From:_**\
+_**From:**_\
 **Dungeness:          9.10am**\
 **Romney Sands:    9.25am**\
 **New Romney:      9.35am**
+
+**PERFORMERS, STALL HOLDERS, VISITORS ATTENDING THE FAYRE PLEASE NOTE THAT THE M20 WILL BE CLOSED FROM 10PM ON FRIDAY 27TH JULY TO 5AM ON MONDAY 30TH JULY.  THE DIVERSION ROUTE IS A228, M2 AND A229**
