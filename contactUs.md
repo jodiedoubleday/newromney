@@ -15,18 +15,12 @@ You will arrive at the High Street and the field used for the Fayre is behind th
 
 ## Comments received following the 2017 Fayre
 
-> A great day, a real community event.
+Congratulations on a wonderful Country Fayre.  I loved the display by the Golden Retrievers and the wonderful Morris Men who were such fun.  Please thank all your team for their hard work                                                                                   **A Local Resident**
+
+A huge thank you to everyone on the Committee for another fantastic day.Once again we thoroughly enjoyed the Fayre, all credit to you.          **1st New Romney Scout Group**
+
+Well done to the team for putting a great event, which are proud to be part of.  Its always amazing the amount of people that turn up after the parade.          **Kent PA Hire**
+
+We always enjoy coming to New Romney and look forward to being with you in 2019 for the 25th Anniversary                                                                            **X-Treme Falconry**
+
 >
-> Terrific atmosphere in the High Street and a real buzz on the field.
->
-> We were so gutted for you about the rain in the afternoon, such a disappointment after all the hard work you put in to organising the Fayre.  It really was a super event and the morning turnout was fantastic.
->
-> The Fayre and the Parade seemed bigger than ever
->
-> As usual you did a great job, a really lovely successful and fun-packed Country Fayre.  The Parade was fabulous.
->
-> Despite the pouring rain we very much enjoyed our day and commend all the stall holders and entertainers who braved the wet for us mad people.
->
-> It was lovely to see you all again.  We had a lovely day even with the rain
->
-> Having only recently moved to the area this was our first New Romney Country Fayre experience.  The Parade was a great start to the day, charming uplifting with terrific music.  With so many performers, activities and stalls there really was something for everyone.  It was such a shame that the weather intervened but we are already looking forward to next year's event.  Hats off to everybody involved.  A remarkable showcase of the community spirit, opportunities and talents of New Romne.
