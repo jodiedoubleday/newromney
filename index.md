@@ -3,10 +3,9 @@ layout: landing
 title: Homepage
 heading: The Largest Free Event on Romney Marsh.
 ---
-The 2018 Fayre was a huge success, with more people than ever attending the Fayre.\
-Over 400 people took part in the Parade, which was very noisy and colourful, the Seaside theme brought out some extremely imaginative costumes and floats.  Crowds lined the Parade route giving the whole thing a real carnival atmosphere.  Three bands took part and many of the entrants had their own music.
+The 2018 Fayre was a huge success, with more people than ever attending.    Over 400 people took part in the Parade, which was very noisy and colourful, the Seaside theme brought out some extremely imaginative costumes and floats.  Crowds lined the Parade route giving the whole thing a real carnival atmosphere.  Three bands took part and many of the entrants had their own music as well.
 
-Lots of interesting stalls and plenty of choice of food kept visitors there all day.  The highlight of the arena performers without a doubt were the two displays by the Southern Golden Retrievers Display Team.  Other arena performances included some old favourites such as X-treme Falconry,  Morris Men, New Romney Sea Cadets and two local dance troupes.  A great day was had by all.
+Lots of interesting stalls and plenty of choice of food kept visitors at the Fayre all day.  The highlight of the arena performers without a doubt were the two displays by the Southern Golden Retrievers Display Team.  Other arena performances included some old favourites such as X-treme Falconry,  Morris Men, New Romney Sea Cadets and local dance troupes.  A great day was had by all.
 
 **THE 2019 COUNTRY FAYRE WILL BE HELD ON SATURDAY 27TH JULY**
 
