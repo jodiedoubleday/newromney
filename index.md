@@ -2,6 +2,7 @@
 layout: landing
 title: Homepage
 heading: The Largest Free Event on Romney Marsh.
+image: '/assets/images/uploads/new-romney-fayre-launch-2.jpg'
 ---
 The 2018 Fayre was a huge success, with more people than ever attending.    Over 400 people took part in the Parade, which was very noisy and colourful, the Seaside theme brought out some extremely imaginative costumes and floats.  Crowds lined the Parade route giving the whole thing a real carnival atmosphere.  Three bands took part and many of the entrants had their own music as well.
 
