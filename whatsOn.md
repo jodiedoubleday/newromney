@@ -4,7 +4,7 @@ title: What's on?
 heading: What's on
 image: ''
 ---
-# Dates for your diary
+## Dates for your diary
 
 **FUNDRAISING QUIZ NIGHT**
 
