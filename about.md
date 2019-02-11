@@ -2,6 +2,7 @@
 layout: default
 title: about
 heading: What's it all about?
+image: /assets/images/uploads/28-001.jpg
 ---
 A Community Event, Revitalising Community Spirit
 
@@ -33,12 +34,6 @@ Some of the jobs our volunteers do include:
 
 If you feel you could spare some time to help with the organisation and preparations or want to help out on the day itself, then please call the Chairman on: 01797 363981
 
-## Awards in 2016
+## 25th Anniversary
 
-In 2016 Committee Members, past and present were awarded New Romney Town Council's "PRIDE OF NEW ROMNEY" award and we were then nominated for a Kent Association of Local Councils Award, which much to our surprise we won. This prestigious award was won against many other nominations from around Kent.
-
-The award was presented by the Chairman of KALC, to our Committee Chairman, Frances Wire at the New Romney Town Council Mayor Making ceremony in May.
-
-As a Committee we feel very honoured to be recognised by not only the Town Council, but also by the Kent wide KALC and are very proud to accept both of these awards.
-
-The wording on the certificate reads: "For 22 years a dedicated committee of volunteers have organised an annual free community event attended by several thousand people.  Their work benefits charities, supports local businesses and promotes New Romney"
+## In 2019 the Country Fayre will be celebrating 25 years of this popular community event.  It is still organised by an enthusiastic team of volunteers who, each year strive to stage an event that appeals to all ages.  We look forward to seeing you in 2019.
