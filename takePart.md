@@ -2,6 +2,7 @@
 layout: default
 title: Take Part
 heading: Take Part
+image: /assets/images/uploads/28-016.jpg
 ---
 ## Stalls
 
@@ -40,32 +41,14 @@ The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy
 
 ## Trophies
 
-The theme for 2017 was **"Children's Books"**
+The theme for 2019 is "English Country Garden"
 
-The Parade entries were once again truly amazing, so much time  and effort had gone into making the costumes and we thank the participants for being so enthusiastic.
-
-Trophies were awarded in Five Categories:
+Trophies will be awarded in Five Categories:
 
 * Best Overall Parade Entry
 * Large Group
 * Small Group
-* Best Individaul Adult
+* Best Individual Adult
 * Best Individual Child
 
-The Trophies were awarded as follows:
-
-Best Overall Parade Entry
-: Winner: Emma Lou's Dance Troupe - Alice in Wonderland
-: Runner Up: Baby Seashells Nursery - Harry Potter
-
-Best Large Group
-: Winner: New Romney Children's Centre - Alice in Wonderland
-: Runner Up: New Romney Bowls Club - Peter Pan
-
-Best Small Group
-: Winner: New Romney Beavers and Cubs - 101 Dalmations
-: Runner Up: The Ashdown Family - The Pied Piper
-
-Best Individuals:
-: Winner: Veronica Bailey​ - Cruella de Vil
-: Winner: Ellie Stirling​ - Cheshire Cat
+T
