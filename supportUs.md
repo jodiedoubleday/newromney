@@ -43,7 +43,7 @@ Anyone - individuals or companies can become a sponsor.
   </div>
 </div>
 
-## Sponsors for 2018 include
+## Sponsors for 2018 included
 
 * New Romney Town Council
 * EDF Energy Dungeness B Power Station
@@ -86,13 +86,13 @@ The Broadacre, Savages, Thorpe Park, Shepway Tutoring, Holiday Extras
 
 ### Programme Advertising
 
-Advertising in the very colourful and information-packed 48 page programme starts from as little as £15.00 for a business card size advert. If you would like to advertise in our 2018 Programme please [contact us](/contactUs)
+Advertising in the very colourful and information-packed 48 page programme starts from as little as £15.00 for a business card size advert. If you would like to advertise in our 2019 Programme please [contact us](/contactUs)
 
 All adverts are full colour.
 
-Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   ALL ADVERTISING SPACE SOLD FOR 2018
+Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   
 
-**PROGRAMME ON SALE FROM 30TH JUNE ONLY £1**\
+**PROGRAMME ON SALE AT THE END OF JUNE AT ONLY £1**\
 Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
 
 **Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space for 2019.**
