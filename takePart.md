@@ -23,7 +23,7 @@ We are particularly looking for some more unusual stalls, the allocation of food
 
 ## Childrens Races
 
-The Children's Races are for all ages and will be held again in 2018 with Gold, Silver and Bronze Medals to be won in each of the 8 races.  Sign up on the day at the Marshals Tent on the Recreation Ground.
+The Children's Races are for all ages and will be held again in 2019 with Gold, Silver and Bronze Medals to be won in each of the 8 races.  Sign up on the day at the Marshals Tent on the Recreation Ground.
 
 ## The Parade
 
@@ -31,7 +31,7 @@ The day kicks off with a vibrant and colourful Parade through New Romney High St
 
 **PLEASE NOTE THAT ROADS IN THE AREA WILL BE CLOSED FROM 10.15AM TO ALLOW THE PARADE TO TAKE PLACE.  THEY WILL REOPEN AS THE PARADE PASSES**
 
-The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy Leisure Centre in Station Road. (TN28 8BB)  The theme this year is **The Seaside**, which can be interpreted in any way you like, such as on the sea, beside the sea, under the sea, it doesn't matter, just come and enjoy the fun.  Over 300 people usually take part, both groups and individuals, anyone can be involved and entrants normally include:
+The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy Leisure Centre in Station Road. (TN28 8BB)  The theme this year is **English Country Garden**, which can be interpreted in any way you like, it doesn't matter, just come and enjoy the fun.  Over 300 people usually take part, both groups and individuals, anyone can be involved and entrants normally include:
 
 * Marching Bands
 * Samba Band
