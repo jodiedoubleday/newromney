@@ -10,6 +10,6 @@ The New Romney Country Fayre is an annual event held on St Martin's Field and th
 
 **THIS YEAR WE ARE CELEBRATING 25 YEARS OF THE NEW ROMNEY COUNTRY FAYRE**
 
-A real highlight of the day is the vibrant and colourful parade through the High Street to St Martin's Field for the Official Opening.   The theme for the 2019 Parade is English Country Garden.  Following the Parade and Official Opening there will be a full programme of all-day entertainment in two arenas. 
+A real highlight of the day is the vibrant and colourful parade through the High Street to St Martin's Field for the Official Opening.   The theme for the 2019 Parade is English Country Garden.  A full programme of entertainment in two arenas will begin after the Fayre is officially opened. 
 
 As well as free entry to the Fayre a free car park is provided in Ashford Road. Alternatively, go green and catch one of the special trains being run from Romney Sands and Hythe Stations, by the Romney Hythe and Dymchurch Railway. These trains will arrive in New Romney in time for you to see the Parade.  We are pleased to be working again with the RHDR and details of trains, special fares and timetables can be found on the website of the Romney, Hythe and Dymchurch Railway:  www.rhdr.org.uk
