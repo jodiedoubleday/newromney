@@ -45,10 +45,11 @@ The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy
 
 The theme for 2019 is "English Country Garden"
 
-Trophies will be awarded in Five Categories:
+Trophies will be awarded in the following categories:
 
 * Best Overall Parade Entry
-* Large Group
-* Small Group
-* Best Individual Adult
-* Best Individual Child
+* Best Large Group
+* Best Small Group
+* Best Musical/Dance Group
+* Best Individual Fancy Dress - Adult
+* Best Individual Fancy Dress - Child
