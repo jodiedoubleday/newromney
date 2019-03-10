@@ -2,7 +2,7 @@
 layout: default
 title: What's on?
 heading: What's on
-image: ''
+image: /assets/images/uploads/nrcf-quiz-poster.jpg
 ---
 ## Dates for your diary
 
