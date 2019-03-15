@@ -43,7 +43,7 @@ Anyone - individuals or companies can become a sponsor.
   </div>
 </div>
 
-## Sponsors confirmed for 2019 
+## Sponsors confirmed for 2019
 
 * New Romney Coastal Community Group
 * EDF Energy Dungeness B Power Station
@@ -55,6 +55,8 @@ Anyone - individuals or companies can become a sponsor.
 * Romney Resource Centre
 * Romney Marsh Community Church
 * Magnox Socio Economic Scheme
+* W & E Rolfe
+* Mrs Patricia Rolfe Sponsors of Medals for Children's Races
 
 ### Logistical Help 2018
 
