@@ -2,22 +2,17 @@
 layout: default
 title: What's on?
 heading: What's on
-image: /assets/images/uploads/nrcf-quiz-poster.jpg
+image: /assets/images/uploads/gordon-bennett-poster-2019001.jpg
 ---
 ## Dates for your diary
 
-**FUNDRAISING QUIZ NIGHT**
+BACK BY POPULAR DEMAND\
+**COCKNEY NIGHT**\
+with **Gordon Bennett **on Friday 24th May 2019\
+at the Masonic Hall, Dymchurch Road, Dymchurch, Romney Marsh, Kent TN28 0LD\
+7.00pm for 7.30pm\
+**TICKETS** £18 per person includes Pie & Mash and Pud\
+Call:  01797 363981 or email: info@newromneycountryfayre.co.uk to book tickets
 
-A Quiz Night will be held on Friday 5th April 2019 at The Centre in North Street New Romney\
-Teams of up to 6\
-£7pp to include a Ploughman's Bring Your Own Drink and Glasses\
-7.00pm for a 7.30pm start\
-Raffle\
-For a Fun Night come and meet the Country Fayre Team
-
-**Call 01797 363981 to book your table**
-
-**COCKNEY EVENING**\
-with Gordon Bennett on Friday 24th May 2019\
-at the Masonic Hall in Dymchurch\
-More details shortly
+Bar Available \
+Raffle
