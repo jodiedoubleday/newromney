@@ -2,7 +2,7 @@
 layout: default
 title: What's on?
 heading: What's on
-image: /assets/images/uploads/gordon-bennett-poster-2019001.jpg
+image: /assets/images/uploads/gordon-bennett-web-picture.jpg.jpg
 ---
 ## Dates for your diary
 
