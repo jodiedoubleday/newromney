@@ -57,18 +57,22 @@ Anyone - individuals or companies can become a sponsor.
 * Magnox Socio Economic Scheme
 * W & E Rolfe
 * Mrs Patricia Rolfe Sponsors of Medals for Children's Races
+* The Looker
 
 ### Logistical Help 2018
 
-* Romney Hythe & Dymchurch Railway - Running of Special Trains
 * EDF Energy Dungeness B Power Station - Parade Marshals and Helpers
 * Peter J Goddard - Storage of Equipment
 * The Broadacre - Venue for Meetings
 * The Marsh Academy & Leisure Centre - Use of Car Park for Parade Assembly Point
 * Family of the late Terry Sleap - Use of field for Car Park
 * Army Cadet Force, St Mary's Bay
+* Romney Hythe & Dymchurch Railway - Running of Special Trains
 
 ### Lucky Programme Prizes 2019
+
+Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow, The Broadacre,\
+Savages
 
 If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
 
@@ -81,4 +85,5 @@ Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you ca
 **PROGRAMMES ON SALE AT THE END OF JUNE AT ONLY £1**\
 Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
 
-**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space for 2019.**
+**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space for 2019.**\
+Limited advertising space is now left in the 2019 Programme
