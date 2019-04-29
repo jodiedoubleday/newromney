@@ -58,6 +58,7 @@ Anyone - individuals or companies can become a sponsor.
 * W & E Rolfe
 * Mrs Patricia Rolfe Sponsors of Medals for Children's Races
 * The Looker
+* Sainsburys New Romney
 
 ### Logistical Help 2018
 
@@ -66,7 +67,6 @@ Anyone - individuals or companies can become a sponsor.
 * The Broadacre - Venue for Meetings
 * The Marsh Academy & Leisure Centre - Use of Car Park for Parade Assembly Point
 * Family of the late Terry Sleap - Use of field for Car Park
-* Army Cadet Force, St Mary's Bay
 * Romney Hythe & Dymchurch Railway - Running of Special Trains
 
 ### Lucky Programme Prizes 2019
@@ -85,5 +85,4 @@ Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you ca
 **PROGRAMMES ON SALE AT THE END OF JUNE AT ONLY £1**\
 Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
 
-**Please call 01797 363981 or [contact us](/contactUs) for more information or to book your space for 2019.**\
-Limited advertising space is now left in the 2019 Programme
+**Advertising space is now sold out for the 2019 Programme**
