@@ -47,8 +47,8 @@ Anyone - individuals or companies can become a sponsor.
 
 * New Romney Coastal Community Group
 * EDF Energy Dungeness B Power Station
-* Cllr Russell Tilson SDC Members Grant 
-* Cllr Susie Govett SDC Members Grant
+*  Russell Tilson Ex-Cllr FHDC Members Grant 
+* Susie Govett Ex-Cllr FHDC Members Grant
 * Graham Newing Electrical Contractor
 * B E Ames Builders Ltd
 * The Broadacre, New Romney
