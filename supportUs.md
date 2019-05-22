@@ -47,7 +47,7 @@ Anyone - individuals or companies can become a sponsor.
 
 * New Romney Coastal Community Group
 * EDF Energy Dungeness B Power Station
-*  Russell Tilson Ex-Cllr FHDC Members Grant 
+* Russell Tilson Ex-Cllr FHDC Members Grant 
 * Susie Govett Ex-Cllr FHDC Members Grant
 * Graham Newing Electrical Contractor
 * B E Ames Builders Ltd
@@ -59,6 +59,10 @@ Anyone - individuals or companies can become a sponsor.
 * Mrs Patricia Rolfe Sponsors of Medals for Children's Races
 * The Looker
 * Sainsburys New Romney
+* IMOS Foundation
+* New Romney Town Council
+* Cllr Tony Hills (KCC Members Grant)
+* Robert Jardine Opticians
 
 ### Logistical Help 2018
 
@@ -72,7 +76,7 @@ Anyone - individuals or companies can become a sponsor.
 ### Lucky Programme Prizes 2019
 
 Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow, The Broadacre,\
-Savages
+Savages, The Holistic House, Footprints Photography
 
 If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
 
