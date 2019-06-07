@@ -63,6 +63,8 @@ Anyone - individuals or companies can become a sponsor.
 * New Romney Town Council
 * Cllr Tony Hills (KCC Members Grant)
 * Robert Jardine Opticians
+* Firmager Funeral Service
+* New Romney Bowls Club
 
 ### Logistical Help 2018
 
@@ -75,8 +77,8 @@ Anyone - individuals or companies can become a sponsor.
 
 ### Lucky Programme Prizes 2019
 
-Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow, The Broadacre,\
-Savages, The Holistic House, Footprints Photography
+Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow Printing, The Broadacre,\
+Savages, The Holistic House, Footprints Photography and Romney HYthe & Dymchurch Railway
 
 If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
 
