@@ -16,7 +16,15 @@ There are 2 arenas offering a full day of entertainment, surrounded by 100 stall
 
 We apologise for this, but disruption will be kept to a minimum
 
-If you want to leave your car at home and go green why not travel on the Romney Hythe Dymchurch Railway. Their special trains will arrive in New Romney in time for the start of the Parade. Special fares apply. For more information visit [Romney, Hythe & Dymchurch Railway](http://www.rhdr.org.uk)
+If you want to leave your car at home and go green why not travel on the Romney Hythe Dymchurch Railway. Their special trains will arrive in New Romney in time for the start of the Parade. 
+
+Train Times from Hythe                                                          Train Times from Dungeness\
+Hythe:                9.00am                                                          Dungeness:         9.15am\
+Dymchurch:       9.20am                                                          Romney Sands:   9.30am\
+St Mary's Bay:    9.25am                                                          New Romney:     9.40am \
+New Romney:    9.35am
+
+Special fares apply. For more information visit:  www.rhdr.org.uk
 
 ## Be part of the team
 
