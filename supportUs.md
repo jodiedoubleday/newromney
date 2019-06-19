@@ -78,7 +78,8 @@ Anyone - individuals or companies can become a sponsor.
 ### Lucky Programme Prizes 2019
 
 Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow Printing, The Broadacre,\
-Savages, The Holistic House, Footprints Photography and Romney HYthe & Dymchurch Railway
+Savages, The Holistic House, Footprints Photography, Romney Hythe & Dymchurch Railway\
+and Shepway Tutoring 
 
 If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
 
@@ -91,4 +92,4 @@ Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you ca
 **PROGRAMMES ON SALE AT THE END OF JUNE AT ONLY £1**\
 Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
 
-**Advertising space is now sold out for the 2019 Programme**
+**Advertising space is now sold out for the 2019 Programme  The Programme will be on sale for just £1 from 29th June**
