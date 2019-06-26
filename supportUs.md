@@ -65,6 +65,7 @@ Anyone - individuals or companies can become a sponsor.
 * Robert Jardine Opticians
 * Firmager Funeral Service
 * New Romney Bowls Club
+* Pentland Homes
 
 ### Logistical Help 2018
 
