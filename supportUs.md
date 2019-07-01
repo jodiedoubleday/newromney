@@ -90,7 +90,5 @@ Our programme is a great and affordable way to advertise your business and suppo
 
 Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   To find out more, please **[contact us](/contactUs) .**
 
-**PROGRAMMES ON SALE AT THE END OF JUNE AT ONLY £1**\
+**PROGRAMMES NOW ON SALE FOR ONLY £1 IN LOCAL SHOPS DISPLAYING OUR POSTER**\
 Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
-
-**Advertising space is now sold out for the 2019 Programme  The Programme will be on sale for just £1 from 29th June**
