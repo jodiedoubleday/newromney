@@ -2,7 +2,7 @@
 layout: landing
 title: Homepage
 heading: The Largest Free Event on Romney Marsh.
-image: /assets/images/uploads/new-romney-fayre-launch-2.jpg
+image: /assets/images/uploads/dsc_0158.jpg
 ---
 **THE 2019 COUNTRY FAYRE WILL BE HELD ON SATURDAY 27TH JULY**
 
