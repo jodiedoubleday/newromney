@@ -66,6 +66,7 @@ Anyone - individuals or companies can become a sponsor.
 * Firmager Funeral Service
 * New Romney Bowls Club
 * Pentland Homes
+* Belmont Healthcare
 
 ### Logistical Help 2018
 
@@ -79,8 +80,8 @@ Anyone - individuals or companies can become a sponsor.
 ### Lucky Programme Prizes 2019
 
 Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow Printing, The Broadacre,\
-Savages, The Holistic House, Footprints Photography, Romney Hythe & Dymchurch Railway\
-and Shepway Tutoring 
+Savages, The Holistic House, Footprints Photography, Romney Hythe & Dymchurch Railway,\
+Shepway Tutoring and The Curry Lounge
 
 If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
 
