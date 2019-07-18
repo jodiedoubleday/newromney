@@ -17,3 +17,16 @@ One of the day's highlights is the huge vibrant and colourful parade through the
 As well as **free entry** to the Fayre a **free car park** is provided in Ashford Road. 
 
 Alternatively, go green and catch one of the special trains being run from Romney Sands and Hythe Stations, by the Romney Hythe and Dymchurch Railway, which will arrive in New Romney in time for  the Parade.  We are pleased to be working again with the RHDR and details of trains, special fares and timetables can be found on the website of the Romney, Hythe and Dymchurch Railway:  [www.rhdr.org.uk](www.rhdr.org.uk).
+
+**ADVANCED WARNING**\
+Please be aware that the following roads will be closed from 10.15am until 11.00am to allow the Parade to take place.  However, they are unlikely to be closed for the full 45 minutes.  A rolling closure will be in operation to allow roads to reopen as the Parade passes to minimise disruption to through traffic.
+
+Station Road (from Marsh Academy Lower Car Park\
+New Romney High Street to the junction with West Street (A259)\
+West Street\
+Sussex Road\
+Fairfield Road (this will be closed all day from 09.00am to 5.00pm between Ashford Road and Mabledon Close for pedestrian safety.
+
+We apologise in advance for any inconvenience the Parade may cause.  Please be polite to the Marshals.  They are all volunteers who are giving up their time to help with our Community Event.
+
+We have obtained permission from KCC Highways and Kent Police to close these roads and have authority from FHDC's Safety Advisory Group to stage the Fayre.
