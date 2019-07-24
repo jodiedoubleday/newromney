@@ -67,6 +67,7 @@ Anyone - individuals or companies can become a sponsor.
 * New Romney Bowls Club
 * Pentland Homes
 * Belmont Healthcare
+* Park Holidays Marlie Farm
 
 ### Logistical Help 2018
 
