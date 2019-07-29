@@ -9,7 +9,7 @@ image: /assets/images/uploads/dsc_0158.jpg
 **A FEW SHOWERS, BUT THE COUNTRY FAYRE RESIGNED SUPREME!**\
 Not even a few showers could dampen New Romney's legendary community spirit.  Thousands of people came together to celebrate the 25th anniversary of the New Romney Country Fayre.
 
-When the organisers awoke early on Saturday morning to the dreaded sound of rain, they fearered the wet weather could ruin the day.  However, the stoicism and resolve of Marsh people should never be underestimated.  Far from staying away, the less than ideal conditions seemed to make visitors even more determined to come out and show their support of the Town's great annual community event.
+When the organisers awoke early on Saturday morning to the dreaded sound of rain, they feared the wet weather could ruin the day.  However, the stoicism and resolve of Marsh people should never be underestimated.  Far from staying away, the less than ideal conditions seemed to make visitors even more determined to come out and show their support of the Town's great annual community event.
 
 From the moment the parade kicked off, it was clear the fayre was going to be a tremendous success.  With nearly 40 entries, the Parade was one of the largest ever, with absolutely amazing interpretations of our theme of English Country Garden.
 
