@@ -45,11 +45,16 @@ The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy
 
 The theme for 2019 is "English Country Garden"
 
-Trophies will be awarded in the following categories:
+Parade Winners were:
 
-* Best Overall Parade Entry
-* Best Large Group
-* Best Small Group
-* Best Musical/Dance Group
-* Best Individual Fancy Dress - Adult
-* Best Individual Fancy Dress - Child
+Best Overall Parade Entry          -  New Romney Am Dram\
+Runner Up                                 -  New Romney Children's Centre\
+Best Large Group                      -  New Romney Cubs and Beavers\
+Runner Up                                 -  Seashells Nursery\
+Best Small Group                      -  Middlemarsh WI\
+Runner Up                                 -  New Romney Day Care Centre\
+Best Musical/Dance Group       -   Townsend Dance\
+Runner Up                                -   Emma-Lou's Dance Troupe
+
+Best Individual Fancy Dress - Adult Michael of Romney Marsh Day Care Centre\
+Best Individual Fancy Dress - Child jointly awarded to the children of the Ashdown Family as gnomes
