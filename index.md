@@ -4,29 +4,19 @@ title: Homepage
 heading: The Largest Free Event on Romney Marsh
 image: /assets/images/uploads/dsc_0158.jpg
 ---
-**THE 2019 COUNTRY FAYRE WILL BE HELD ON SATURDAY 27TH JULY**
+**THE 2019 COUNTRY FAYRE WAS HELD ON SATURDAY 27TH JULY**
 
-The New Romney Country Fayre is an annual event held on St Martin's Field and the Fairfield Road Recreation Ground in New Romney. It is the **largest free event** on Romney Marsh and is a true community event attracting over 7,000 visitors from all over the South East of England. 
+**A FEW SHOWERS, BUT THE COUNTRY FAYRE RESIGNED SUPREME!**\
+Not even a few showers could dampen New Romney's legendary community spirit.  Thousands of people came together to celebrate the 25th anniversary of the New Romney Country Fayre.
 
-The original Committee was formed in 1994 with the first Fayre taking place the following year. Since then it has grown into a massive event and has helped to raise hundreds of thousands of pounds for local organisations and charities who take part.  To find out more, see our Facebook page <https://www.facebook.com/newromneycountryfayre/>.
+When the organisers awoke early on Saturday morning to the dreaded sound of rain, they fearered the wet weather could ruin the day.  However, the stoicism and resolve of Marsh people should never be underestimated.  Far from staying away, the less than ideal conditions seemed to make visitors even more determined to come out and show their support of the Town's great annual community event.
 
-**THIS YEAR WE ARE CELEBRATING 25 YEARS OF THE NEW ROMNEY COUNTRY FAYRE**
+From the moment the parade kicked off, it was clear the fayre was going to be a tremendous success.  With nearly 40 entries, the Parade was one of the largest ever, with absolutely amazing interpretations of our theme of English Country Garden.
 
-One of the day's highlights is the huge vibrant and colourful parade through the High Street to St Martin's Field for the Official Opening.   **The theme for the 2019 Parade is English Country Garden**.  A full programme of entertainment in two arenas will begin after the Fayre is officially opened. 
+The Official Opening was carried out by Mrs Shirley Carey, whose late husband Ted had opened the very first Fayre in 1995 when he was Mayor of New Romney.  What stood out from the 2019 Fayre was the overwhelming positive vibe and sense of community.  Alongside the scheduled programme, there were impromptu sessions of "Community Dancing" from a host of different organisations, with members of the public also joining in.
 
-As well as **free entry** to the Fayre a **free car park** is provided in Ashford Road. 
+Chairman, Frances Wire, said, "We can spend 12 months planning this event, but if wouldn't be half as successful if we didn't hae the support of the community behind us".
 
-Alternatively, go green and catch one of the special trains being run from Romney Sands and Hythe Stations, by the Romney Hythe and Dymchurch Railway, which will arrive in New Romney in time for  the Parade.  We are pleased to be working again with the RHDR and details of trains, special fares and timetables can be found on the website of the Romney, Hythe and Dymchurch Railway:  [www.rhdr.org.uk](www.rhdr.org.uk).
+The 2020 Fayre will take place on Saturday, 25th July when we are hoping that the weather will be very kind to us.
 
-**ADVANCED WARNING**\
-**Please be aware** that the following roads will be closed from 10.15am until 11.00am to allow the Parade to take place.  However, they are unlikely to be closed for the full 45 minutes.  A rolling closure will be in operation to allow roads to reopen as the Parade passes to minimise disruption to through traffic.
-
-Station Road (from Marsh Academy Lower Car Park\
-New Romney High Street to the junction with West Street (A259)\
-West Street\
-Sussex Road\
-Fairfield Road (this will be closed all day from 09.00am to 5.00pm between Ashford Road and Mabledon Close for pedestrian safety.
-
-We apologise in advance for any inconvenience the Parade may cause.  Please be polite to the Marshals.  They are all volunteers who are giving up their time to help with our Community Event.
-
-We have obtained permission from KCC Highways and Kent Police to close these roads and have authority from FHDC's Safety Advisory Group to stage the Fayre.
+  To find out more, see our Facebook page <https://www.facebook.com/newromneycountryfayre/>.
