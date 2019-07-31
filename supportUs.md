@@ -78,19 +78,27 @@ Anyone - individuals or companies can become a sponsor.
 * Family of the late Terry Sleap - Use of field for Car Park
 * Romney Hythe & Dymchurch Railway - Running of Special Trains
 
-### Lucky Programme Prizes 2019
+### Lucky Programme Prize Winners 2019
 
-Holiday Extras, Demetrios Restaurant, Marsh Maize Maze, Lazy Cow Printing, The Broadacre,\
-Savages, The Holistic House, Footprints Photography, Romney Hythe & Dymchurch Railway,\
-Shepway Tutoring and The Curry Lounge
+Airport Lounge Voucher                H Millen              Bethersden\
+Marsh Maize Maze Pass                 Nessy                 New Romney\
+Demetrios Voucher                        J Schoner            Hythe\
+Breakfast Basket                            A Weatherhead   St Mary's Bay\
+Children's Books                            P Amos               Greatstone\
+Fruit Basket                                    R Jackson            Lydd-on-Sea\
+Picture Canvas                               T Cheese             Faversham\
+Garden Badminton Set                  E James               New Romney\
+Holistic Home Voucher                 T Bounds             New Romney\
+Children's Card Games                  A Bell                  New Romney\
+Garden Tent                                  M Watts              Littlestone\
+RHDR Rover Ticket                        D Cope               St Mary's Bay\
+Canvas Print Voucher                    D Robertson       Littlestone\
+Curry Lounge Voucher                  M Mace              Greatstone  
 
-If you would like to donate one of the prizes for this year's programme draw, please contact us on info@newromneycountryfayre.co.uk.
+**ALL PRIZES HAVE BEEN DISTRIBUTED**                                                       
 
-### Programme Advertising
+###  Programme Advertising
 
-Our programme is a great and affordable way to advertise your business and support our community event in its 25th year.  Advertising costs have been frozen at 2018 prices and cost from just £15.00 for a business card sized advert. All adverts are full colour.
+Our programme is a great and affordable way to advertise your business and support our community event.  Advertising costs have been frozen at 2018 prices and cost from just £15.00 for a business card sized advert. All adverts are full colour.
 
 Print run is 1,000 copies, but with over 7,000 people visiting the Fayre, you can be sure of some good publicity.   To find out more, please **[contact us](/contactUs) .**
-
-**PROGRAMMES NOW ON SALE FOR ONLY £1 IN LOCAL SHOPS DISPLAYING OUR POSTER**\
-Fill in the slip on Page 9 to enter the Lucky Programme Prize Draw
