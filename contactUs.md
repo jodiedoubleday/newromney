@@ -13,22 +13,30 @@ You will arrive at the High Street and the field used for the Fayre is behind th
   <iframe width="100%" height="auto" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2511.5924330019193!2d0.9380114155413677!3d50.98672365645944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dee872b8b294fb%3A0x82de491e46b25755!2sNew+Romney+Country+Fayre!5e0!3m2!1sen!2suk!4v1468939443016"></iframe>
 </div>
 
-## Comments received following the 2018 Fayre
+## Comments received following the 2019 Fayre
 
-Congratulations on a wonderful Country Fayre.  I loved the display by the Golden Retrievers and the wonderful Morris Men who were such fun.  Please thank all your team for their hard work                                                                                   **A Local Resident**
+An enormous "thank you" for celebrating 25 years of New Romney Country Fayre in such a special way.  For me it was a very special and memorable day - seeing so many old friends.  Most importantly huge thanks to you all for continuing NRCF in splendid style.  - **Carole Waters who originally came up with the idea of having a Country Fayre**
 
-A huge thank you to everyone on the Committee for another fantastic day.Once again we thoroughly enjoyed the Fayre, all credit to you.          **1st New Romney Scout Group**
+My sincere thanks to you all for giving me the privilege of opening the Country Fayre.  It made me feel very proud to think it is 25 years since it started.  It is thanks to people like yourselves who have worked tirelessly to make it the success it is today.  - **Shirley Carey **
 
-Well done to the team for putting a great event, which are proud to be part of.  Its always amazing the amount of people that turn up after the parade.          **Kent PA Hire**
+We had several positive comments about the sound system.  The comment from Xtreme Falconry was "we do many large shows and often have problems with the radio mics - by far this is the best.          **Kent PA Hire**
 
-We always enjoy coming to New Romney and look forward to being with you in 2019 for the 25th Anniversary                                                                              **X-Treme Falconry**
+We were pleased to help your hardworking Committee with litter picking after a very long day.
 
-I am so grateful to you and your team for allowing the Troupe to perform once again - our first performance for the Country Fayre was 2010.  We love preparing each year, its a chance for the girls to really show off what they can do and it's fantastic that you support us in this way, thank you ever so much.                   **Emma Lou's Dance Troupe                                            **
+Despite the weather it was another great day.  -  **Romney Marsh Litter Picking Group**
 
-Thanks for a great day out and congratulations to your Committee for such a well organised event.                                                                                          ** Invited Guest**
+Thank you for inviting us to the Country Fayre, the Cadets really enjoyedd themselves and even the rain didn't stop that.  We look forward to coming next year -  **Ashford Volunteer Police Cadets**
 
-Thank you all for allowing us to again join your fantastic Country Fayre and walk in the parade with out greyhounds.  Everyone thoroughly enjoyed the variety of stalls and the arena displays.  Once again this was due to your great organisation and a credit to your hard work during the year.                                                        **Kent Greyhound Rescue**
+The Parade was** **larger than ever** **and went well despite the drizzle.  Crowds were not put off and stayed all day.  Once again, the success of the day was due to your great organisation and a real credit to the hard work you carry out during the year.  -  **Kent Greyhound Rescue**
 
+There was a fantastic atmosphere throughout the day.  -  **Local Resident**
 
+We had a great day and enjoyed watching the fabulous entertainment between our sets.  We look forward to our next performance on The Marsh - **Member of the Sheppey St John Ambulance Band**
+
+Thank you.  Many of our guests commented on the great community spirit and I wanted to make sure this was passed on to you and the team.  Thanks for a great day  -  **Mayoress of New Romney**
+
+As ever it was indeed a pleasure to be able to contribute to your event.  We will of course look forward to next year.  -  **Squire, Woodchurch Morris Men**
+
+A shame about the weather, but a wonderful community spirit  -  **Stall Holder**
 
 >
