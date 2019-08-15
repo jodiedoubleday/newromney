@@ -2,7 +2,7 @@
 layout: default
 title: Take Part
 heading: Take Part
-image: /assets/images/uploads/28-016.jpg
+image: /assets/images/uploads/img_7293.jpg
 ---
 ## Stalls
 
