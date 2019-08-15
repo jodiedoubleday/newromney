@@ -2,7 +2,7 @@
 layout: default
 title: about
 heading: What's it all about?
-image: /assets/images/uploads/28-001.jpg
+image: /assets/images/uploads/img_7298.jpg
 ---
 A Community Event, Revitalising Community Spirit
 
