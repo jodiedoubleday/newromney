@@ -1,12 +1,12 @@
 ---
 layout: landing
 title: Homepage
-heading: The Largest Free Event on Romney Marsh
+heading: >-
+  The Largest Free Event on Romney Marsh  will be held on Saturday, 25th July
+  2020
 image: /assets/images/uploads/dsc_0158.jpg
 ---
-**THE 2019 COUNTRY FAYRE WAS HELD ON SATURDAY 27TH JULY**
-
-**A FEW SHOWERS, BUT THE COUNTRY FAYRE RESIGNED SUPREME!**\
+**THE 2019 COUNTRY FAYRE WAS HELD ON SATURDAY 27TH JULY FEW SHOWERS, BUT THE COUNTRY FAYRE RESIGNED SUPREME!**\
 Not even a few showers could dampen New Romney's legendary community spirit.  Thousands of people came together to celebrate the 25th anniversary of the New Romney Country Fayre.
 
 When the organisers awoke early on Saturday morning to the dreaded sound of rain, they feared the wet weather could ruin the day.  However, the stoicism and resolve of Marsh people should never be underestimated.  Far from staying away, the less than ideal conditions seemed to make visitors even more determined to come out and show their support of the Town's great annual community event.
