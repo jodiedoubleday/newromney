@@ -20,3 +20,5 @@ Chairman, Frances Wire, said, "We can spend 12 months planning this event, but i
 The 2020 Fayre will take place on Saturday, 25th July when we are hoping that the weather will be very kind to us.
 
   To find out more, see our Facebook page <https://www.facebook.com/newromneycountryfayre/>.
+
+**_The pictures on our Gallery Page are by the kind permission of Susan Pilcher of Footprints Photography_**
