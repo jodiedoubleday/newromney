@@ -45,7 +45,7 @@ Over 300 people usually take part, both groups and individuals, anyone can be in
 
 ## Trophies
 
-The theme for 2019 is "English Country Garden"
+The theme for 2019 was "English Country Garden"
 
 Parade Winners were:
 
