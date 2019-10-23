@@ -4,7 +4,7 @@ title: Take Part
 heading: Take Part
 image: /assets/images/uploads/img_7293.jpg
 ---
-## alls
+## Stalls
 
 Stalls are run by charity groups, High Street traders, local organisations and businesses, as well as individuals. There is always a huge demand for stalls and we try to bring as much variety as we possibly can.
 
@@ -33,7 +33,9 @@ The day kicks off with a vibrant and colourful Parade through New Romney High St
 
 **PLEASE NOTE THAT ROADS IN THE AREA WILL BE CLOSED FROM 10.15 AM TO ALLOW THE PARADE TO TAKE PLACE.  THEY WILL REOPEN AS THE PARADE PASSES**
 
-The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy Leisure Centre in Station Road. **(TN28 8BB**)  The theme this year is **English Country Garden**, which can be interpreted in any way you like, it doesn't matter, just come and enjoy the fun.  Over 300 people usually take part, both groups and individuals, anyone can be involved and entrants normally include:
+The Parade Assembly Point will the Car Park at the entrance to the Marsh Academy Leisure Centre in Station Road. **(TN28 8BB**)  The theme for 2020 will be Nursery Rhymes, which can be interpreted in any way you like, it doesn't matter, just come and enjoy the fun.  This theme has been chosen to link in the 200th Anniversary of New Romney's Old School and various events will be taking place there during the year.  Check out their website: [www.newromneyoldschooltrust](www.newromneyoldschooltrust)
+
+Over 300 people usually take part, both groups and individuals, anyone can be involved and entrants normally include:
 
 * Marching Bands
 * Samba Band
