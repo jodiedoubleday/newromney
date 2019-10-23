@@ -4,7 +4,7 @@ title: Take Part
 heading: Take Part
 image: /assets/images/uploads/img_7293.jpg
 ---
-## Stalls
+## alls
 
 Stalls are run by charity groups, High Street traders, local organisations and businesses, as well as individuals. There is always a huge demand for stalls and we try to bring as much variety as we possibly can.
 
