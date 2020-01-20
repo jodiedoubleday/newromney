@@ -6,19 +6,17 @@ heading: >-
   2020
 image: /assets/images/uploads/dsc_0158.jpg
 ---
-**THE 2019 COUNTRY FAYRE WAS HELD ON SATURDAY 27TH JULY FEW SHOWERS, BUT THE COUNTRY FAYRE RESIGNED SUPREME!**\
-Not even a few showers could dampen New Romney's legendary community spirit.  Thousands of people came together to celebrate the 25th anniversary of the New Romney Country Fayre.
+**THE 2020 COUNTRY FAYRE WILL BE HELD ON SATURDAY 25TH JULY **\
+Planning for this year's New Romney Country Fayre are already well in hand and we hope that this year the weather will be kind to us.
 
-When the organisers awoke early on Saturday morning to the dreaded sound of rain, they feared the wet weather could ruin the day.  However, the stoicism and resolve of Marsh people should never be underestimated.  Far from staying away, the less than ideal conditions seemed to make visitors even more determined to come out and show their support of the Town's great annual community event.
+The Fayre will start at 10.00am withe Official Opening at 11.15am and will run until 5.00pm with entertainment in two arenas.  Again there will be some old favourites, together with some new acts, which we hope will be enjoyed by all.  
 
-From the moment the parade kicked off, it was clear the fayre was going to be a tremendous success.  With nearly 40 entries, the Parade was one of the largest ever, with absolutely amazing interpretations of our theme of English Country Garden.
+The Parade will be at 10.15am from the Lower Car Park at The Marsh Academy and the theme will be Nursery Rhymes to coincide with the 200th Anniversary of New Romney Old School.  This building plays a very important part in the life of New Romney, not only does it hold many old artifacts, old school registers and an annual exhibition based on local events, but there are also rooms to rent.  Therefore the Country Fayre Committee want to support the Old School in its 200th year.
 
-The Official Opening was carried out by Mrs Shirley Carey, whose late husband Ted had opened the very first Fayre in 1995 when he was Mayor of New Romney.  What stood out from the 2019 Fayre was the overwhelming positive vibe and sense of community.  Alongside the scheduled programme, there were impromptu sessions of "Community Dancing" from a host of different organisations, with members of the public also joining in.
+We look forward to seeing you all at this Community Annual event.
 
-Chairman, Frances Wire, said, "We can spend 12 months planning this event, but if wouldn't be half as successful if we didn't hae the support of the community behind us".
 
-The 2020 Fayre will take place on Saturday, 25th July when we are hoping that the weather will be very kind to us.
 
   To find out more, see our Facebook page <https://www.facebook.com/newromneycountryfayre/>.
 
-**_The pictures on our Gallery Page are by the kind permission of Susan Pilcher of Footprints Photography_**
+_**The pictures on our Gallery Page are by the kind permission of Susan Pilcher of Footprints Photography**_
