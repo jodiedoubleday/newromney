@@ -3,7 +3,7 @@ layout: default
 title: Support Us
 heading: Support Us
 ---
-Would you like to support the 2019 Country Fayre?
+Would you like to support the 2020 Country Fayre?
 
 The cost of staging the event is in the region of £11,000. It is not only the arena acts that cost the money, although nearly half of the total is spent on performers. The remainder is used for essential services such as hire of toilets, PA system, rubbish skips, public liability insurance, first aid cover and the purchase of new equipment and replacement of anything broken or worn out. Every year there are new health and safety requirements, which often necessitate the purchase or hiring of additional equipment.
 
@@ -43,33 +43,12 @@ Anyone - individuals or companies can become a sponsor.
   </div>
 </div>
 
-## Sponsors confirmed for 2019
+## Sponsors Confirmed for 2020
 
-* New Romney Coastal Community Group
-* EDF Energy Dungeness B Power Station
-* Russell Tilson Ex-Cllr FHDC Members Grant 
-* Susie Govett Ex-Cllr FHDC Members Grant
-* Graham Newing Electrical Contractor
-* B E Ames Builders Ltd
-* The Broadacre, New Romney
-* Romney Resource Centre
-* Romney Marsh Community Church
-* Magnox Socio Economic Scheme
-* W & E Rolfe
-* Mrs Patricia Rolfe Sponsors of Medals for Children's Races
-* The Looker
-* Sainsburys New Romney
-* IMOS Foundation
-* New Romney Town Council
-* Cllr Tony Hills (KCC Members Grant)
-* Robert Jardine Opticians
-* Firmager Funeral Service
-* New Romney Bowls Club
-* Pentland Homes
-* Belmont Healthcare
-* Park Holidays Marlie Farm
+* Cllr Patricia Rolfe          Folkestone Hythe & District Council
+* Cllr David Wimble        Folkestone Hythe & District Council
 
-### Logistical Help 2018
+### Logistical Help 2020
 
 * EDF Energy Dungeness B Power Station - Parade Marshals and Helpers
 * Peter J Goddard - Storage of Equipment
@@ -78,26 +57,13 @@ Anyone - individuals or companies can become a sponsor.
 * Family of the late Terry Sleap - Use of field for Car Park
 * Romney Hythe & Dymchurch Railway - Running of Special Trains
 
-### Lucky Programme Prize Winners 2019
+### Lucky Programme Prize 
 
-Airport Lounge Voucher                H Millen              Bethersden\
-Marsh Maize Maze Pass                 Nessy                 New Romney\
-Demetrios Voucher                        J Schoner            Hythe\
-Breakfast Basket                            A Weatherhead   St Mary's Bay\
-Children's Books                            P Amos               Greatstone\
-Fruit Basket                                    R Jackson            Lydd-on-Sea\
-Picture Canvas                               T Cheese             Faversham\
-Garden Badminton Set                  E James               New Romney\
-Holistic Home Voucher                 T Bounds             New Romney\
-Children's Card Games                  A Bell                  New Romney\
-Garden Tent                                  M Watts              Littlestone\
-RHDR Rover Ticket                        D Cope               St Mary's Bay\
-Canvas Print Voucher                    D Robertson       Littlestone\
-Curry Lounge Voucher                  M Mace              Greatstone  
+Details of prizes and sponsors will appear here in due course
 
 **ALL PRIZES HAVE BEEN DISTRIBUTED**                                                       
 
-###  Programme Advertising
+### Programme Advertising
 
 Our programme is a great and affordable way to advertise your business and support our community event.  Advertising costs have been frozen at 2018 prices and cost from just £15.00 for a business card sized advert. All adverts are full colour.
 
