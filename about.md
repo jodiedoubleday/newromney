@@ -42,6 +42,4 @@ Some of the jobs our volunteers do include:
 
 If you feel you could spare some time to help with the organisation and preparations or want to help out on the day itself, then please call the Chairman on: 01797 363981
 
-## 25th Anniversary
-
-In 2019 the Country Fayre will be celebrating 25 years of this popular community event.  It is still organised by an enthusiastic team of volunteers who, each year strive to stage an event that appeals to all ages.  We look forward to seeing you in 2019.
+##

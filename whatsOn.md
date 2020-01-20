@@ -6,10 +6,6 @@ image: ''
 ---
 ## Dates for your diary
 
-**NEW ROMNEY COUNTRY FAYRE**\
-**ANNUAL GENERAL MEETING**\
-**TUESDAY, 15TH OCTOBER, 2019**\
-**7.30PM**\
-**To be held at The Broadacre**\
-**North Street**\
-**New Romney**
+We plan to hold two fundraising Quiz Nights in 2020.  One will be at the end of March and the other in September.  More details will appear here
+
+Details of all fundraising events will be given here
