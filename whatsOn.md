@@ -15,8 +15,9 @@ Tables of 6      £6 per person\
 to include a Ploughman's Supper\
 **Bring Your Own Drink**
 
-This will be held at the
+**There will be a Raffle**
 
+This will be held at the\
 Romney Marsh Community Church, North Street, New Romney
 
 To Book Tickets please call:  01797 363981
