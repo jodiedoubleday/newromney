@@ -6,18 +6,6 @@ image: ''
 ---
 ## Dates for your diary
 
-We plan to hold two fundraising Quiz Nights in 2020.  One will be at the end of March and the other in September.  More details will appear here
+The Quiz Night due to take place on Friday 20th March has been cancelled.  This decision has been made in the light of information being given by the Government regarding the Coronavirus.
 
-**COUNTRY FAYRE FUNDRAISING QUIZ NIGHT**\
-**FRIDAY 20TH MARCH 2020**\
-7.00PM FOR 7.30PM START\
-Tables of 6      £6 per person\
-to include a Ploughman's Supper\
-**Bring Your Own Drink**
-
-**There will be a Raffle**
-
-This will be held at the\
-Romney Marsh Community Church, North Street, New Romney
-
-To Book Tickets please call:  01797 363981
+We hope to arrange another Quiz Night for later in the year.
