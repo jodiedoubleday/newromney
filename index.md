@@ -2,7 +2,7 @@
 layout: landing
 title: Homepage
 heading: VIRTUAL COUNTRY FAYRE 2020  -  SATURDAY 25TH JULY
-image: ''
+image: /assets/images/uploads/nrcf-virtual-fayre-2020-poster.jpg
 ---
 As the 2020 has had to be cancelled we have decided to hold a Virtual Fayre on Saturday, 25th July.
 
