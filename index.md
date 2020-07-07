@@ -1,27 +1,27 @@
 ---
 layout: landing
 title: Homepage
-heading: THIS EVENT HAS NOW BEEN CANCELLED
-image: /assets/images/uploads/dsc_0158.jpg
+heading: VIRTUAL COUNTRY FAYRE 2020  -  SATURDAY 25TH JULY
+image: ''
 ---
-STATEMENT FROM NEW ROMNEY COUNTRY FAYRE COMMITTEE
+As the 2020 has had to be cancelled we have decided to hold a Virtual Fayre on Saturday, 25th July.
 
-**We are extremely sorry to announce that we have had to cancel this year's New Romney Country Fayre, scheduled for Saturday, 25th July 2020.**
+We are asking the community to take part by dressing up for the Parade, or recreating an act in their gardens, then sending us pictures and we will put these on to our Facebook page.  Anyone can take part, we are happy to have photographs or videos and would love to receive messages from you.
 
-Clearly, this is not a course of action we have taken lightly, but the Coronavirus outbreak has brought unprecedented times.  Following the new Government measures announced this week, as well as guidance we have received from the Emergency Planning Department at NHS England, this is our only viable option.
+A Great Virtual Cream Tea will take place in gardens around the Town at 3.30pm on the Saturday and it would be good if gardens were decorated with bunting to celebrate the occasion.  Send us your pictures/clips and these too will be put on to the Facebook page.
 
-This decision is devastating for us, as we were so looking forward to welcoming our visitors and participants to this year's Fayre.  We understand how much pride people take in our community event and we are extremely sad to have to call it off for the first time in its 25 year history.
+Some of the acts booked for 2020 have sent us things that we will be featuring on the day.
 
-We would like to extend our sincere apologies to all our supporters, as well as the community of New Romney, for the disappointment this decision will cause.  However, we have to put the safety and wellbeing of our visitors, stallholders, performers and volunteers first.
+Please send all photographs/videos to each of the following, who will be collating them ready for publication:
 
-We will be contacting all those who have made financial contributions towards this year's Fayre in due course to offer refunds or to ask if they would like to have stall deposits, donations etc rolled over to 2021.
+E-mail:
 
-Even if the situation across the UK has improved by July, much of the planning and organisation of the Fayre should be taking place now.  If we were to make further financial commitments and then had to cancel at short notice, this could put the long-term survival of the event in jeopardy.  A number of our committee members are over 70 years of age and/or have significant health problems, meaning we have to prioritise the wellbeing of our volunteers.
+caroline.wire@btinternet.com\
+kirstenaterry@gmail.com\
+blackadder1@btinternet.com
 
-This is not the end of the Country Fayre - we will be back with a vengeance next year to once again stage an event the whole town can be proud of.  Please put **Saturday 31st July 2021 **your diaries now and we will come together once more to celebrate New Romney's legendary community spirit.
+Please support our Virtual Fayre in any way that you can so that this great event is not forgotten.  It will be back next year on Saturday, 31st July and we look forward to seeing you all again then.
 
-In the meantime, we send our support and best wishes to the whole community at this very difficult time.
+Many thanks, we await your photos and videos.
 
-**New Romney Country Fayre Committee**
-
-**_The pictures on our Gallery Page are by the kind permission of Susan Pilcher of Footprints Photography_**
+New Romney Country Fayre Committee
