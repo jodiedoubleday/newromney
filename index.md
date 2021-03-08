@@ -1,27 +1,19 @@
 ---
 layout: landing
 title: Homepage
-heading: VIRTUAL COUNTRY FAYRE 2020  -  SATURDAY 25TH JULY
-image: /assets/images/uploads/nrcf-virtual-fayre-2020-poster.jpg
+heading: CANCELLATION OF 2021 NEW ROMNEY COUNTRY FAYRE
+image: ''
 ---
-As the 2020 has had to be cancelled we have decided to hold a Virtual Fayre on Saturday, 25th July.
+We are extremely sorry to announce that we have had to cancel the 2021 New Romney Country Fayre, scheduled for Saturday, 31st July.
 
-We are asking the community to take part by dressing up for the Parade, or recreating an act in their gardens, then sending us pictures and we will put these on to our Facebook page.  Anyone can take part, we are happy to have photographs or videos and would love to receive messages from you.
+Although we had hoped to be able to stage the event in some form this year, the advice we have received this week from the Safety Advisory Group and NHS England is that the date falls too close to the lifting of Covid restrictions on 21st June.  Therefore, permission for the staging of the Fayre would not be granted due to concerns surrounding social distancing and control of visitor numbers.
 
-A Great Virtual Cream Tea will take place in gardens around the Town at 3.30pm on the Saturday and it would be good if gardens were decorated with bunting to celebrate the occasion.  Send us your pictures/clips and these too will be put on to the Facebook page.
+All our Committee Members are very disappointed and sad to have to cancel the Country Fayre for the second year in succession, but, as responsible event organisers, we have to put the health and safety of our community, volunteers and participants first.
 
-Some of the acts booked for 2020 have sent us things that we will be featuring on the day.
+We will be contacting all those who have made financial contributions towards the year's Fayre in due course to offer refunds or to ask if they would like to have stall desposits, donations, etc rolled over to 2022.
 
-Please send all photographs/videos to each of the following, who will be collating them ready for publication:
+The date of the 2022 New Romney Country Fayre will be **SATURDAY, 30TH JULY.**
 
-E-mail:
+All being well we will be back next year to once again stage an event that the whole community can be proud of.
 
-caroline.wire@btinternet.com\
-kirstenaterry@gmail.com\
-blackadder1@btinternet.com
-
-Please support our Virtual Fayre in any way that you can so that this great event is not forgotten.  It will be back next year on Saturday, 31st July and we look forward to seeing you all again then.
-
-Many thanks, we await your photos and videos.
-
-New Romney Country Fayre Committee
+**New Romney Country Fayre Committee**
